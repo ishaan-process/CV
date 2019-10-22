@@ -165,6 +165,21 @@ body{
 .cv-block .info-card.skills .progress{
     height: 3px;
 }
+#lang{
+    padding-bottom: 20px;
+
+}
+
+#line{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#map {
+    height: 100%; 
+    width: 100%; 
+   }
+
 
 .cv-block .info-card.contact-info .icon{
     font-size: 1.3em;
@@ -176,6 +191,7 @@ body{
 .cv-block.info .hobbies p{
     max-width: 700px;
     margin: auto;
+    text-align: justify;
     font-size: 1.2em;
 }
 
